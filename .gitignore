@@ -1,0 +1,16 @@
+.DS_Store
+.idea/*
+node_modules/
+
+.vscode/
+dist/
+
+.env
+.env.docker
+
+# TF stuff
+.terraform
+*.tfstate
+*.tfstate.*
+credentials.json*
+credentials.secret*
